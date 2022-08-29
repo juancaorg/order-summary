@@ -124,6 +124,11 @@ body {
   width: 100%;
 }
 
+.cancel-button:hover {
+  color: var(--dark-blue);
+  cursor: pointer;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
