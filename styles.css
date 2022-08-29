@@ -114,6 +114,16 @@ body {
   box-shadow: 0 20px 20px var(--pale-blue);
 }
 
+.cancel-button {
+  background-color: transparent;
+  border: none;
+  color: var(--desaturated-blue);
+  padding: 0.875rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
