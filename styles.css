@@ -101,6 +101,17 @@ body {
   font-weight: 700;
 }
 
+.proceed-button {
+  background-color: var(--bright-blue);
+  color: white;
+  border-radius: 8px;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 14px;
+  width: 100%;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
