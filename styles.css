@@ -50,6 +50,11 @@ body {
   border-top-right-radius: 1rem;
 }
 
+.order-summary-text {
+  max-height: 406px;
+  padding: 1.5rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
