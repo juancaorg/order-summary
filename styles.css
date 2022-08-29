@@ -110,6 +110,7 @@ body {
   font-weight: 700;
   padding: 14px;
   width: 100%;
+  box-shadow: 0 20px 20px var(--pale-blue);
 }
 
 .attribution {
