@@ -105,11 +105,11 @@ body {
 .proceed-button {
   background-color: var(--bright-blue);
   color: white;
-  border-radius: 8px;
+  border-radius: 0.5rem;
   font-family: "Red Hat Display", sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 700;
-  padding: 14px;
+  padding: 0.875rem;
   width: 100%;
   box-shadow: 0 20px 20px var(--pale-blue);
 }
