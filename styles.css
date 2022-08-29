@@ -21,6 +21,30 @@
 body {
   min-height: 100vh;
   font-family: "Red Hat Display", sans-serif;
+  background-color: var(--pale-blue);
+  display: grid;
+  align-items: center;
+}
+
+.pattern-background {
+  display: grid;
+  align-items: center;
+}
+
+.pattern-background > img {
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.order-summary-card {
+  max-width: 327px;
+  background-color: white;
+  margin: auto;
+}
+
+.success-hero-image {
+  width: 100%;
 }
 
 .attribution {
