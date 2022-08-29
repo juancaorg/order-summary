@@ -41,13 +41,13 @@ body {
   max-width: 327px;
   background-color: white;
   margin: auto;
-  border-radius: 1rem;
+  border-radius: 1.125rem;
 }
 
 .success-hero-image {
   width: 100%;
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
+  border-top-left-radius: 1.125rem;
+  border-top-right-radius: 1.125rem;
 }
 
 .order-summary-text {
