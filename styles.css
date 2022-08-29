@@ -55,6 +55,13 @@ body {
   padding: 1.5rem;
 }
 
+.title {
+  color: var(--dark-blue);
+  font-size: 1.5rem;
+  font-weight: 900;
+  text-align: center;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
