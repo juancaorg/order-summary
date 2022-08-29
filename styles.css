@@ -71,6 +71,16 @@ body {
   margin: 0.875rem;
 }
 
+.price-plan {
+  background-color: var(--very-pale-blue);
+  border-radius: 0.625rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
