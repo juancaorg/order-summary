@@ -53,7 +53,7 @@ body {
 }
 
 .order-summary-text {
-  max-height: 406px;
+  max-height: 486px;
   padding: 1.5rem;
 }
 
@@ -155,4 +155,35 @@ body {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+/*
+ * Desktop media queries.
+*/
+
+@media screen and (min-width: 768px) {
+  .order-summary-card {
+    max-width: 374px;
+  }
+
+  .order-summary-text {
+    padding: 39px;
+  }
+
+  .title {
+    font-size: 1.625rem;
+  }
+
+  .description {
+    font-size: 1rem;
+  }
+
+  .price-plan {
+    padding: 1.5rem;
+  }
+
+  .proceed-button {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
 }
