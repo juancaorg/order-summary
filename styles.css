@@ -102,6 +102,11 @@ body {
   font-weight: 700;
 }
 
+.change-plan:hover {
+  color: hsl(244, 83%, 68%);
+  text-decoration: none;
+}
+
 .proceed-button {
   background-color: var(--bright-blue);
   color: white;
