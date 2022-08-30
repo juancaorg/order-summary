@@ -149,12 +149,17 @@ body {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 0.75rem;
   text-align: center;
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+
+.attribution a:hover {
+  color: hsl(212, 95%, 48%);
 }
 
 /*
@@ -185,5 +190,9 @@ body {
   .proceed-button {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+  }
+
+  .attribution {
+    font-size: 0.875rem;
   }
 }
