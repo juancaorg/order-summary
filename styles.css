@@ -16,6 +16,7 @@
   --very-pale-blue: hsl(225, 100%, 98%);
   --desaturated-blue: hsl(224, 23%, 55%);
   --dark-blue: hsl(223, 47%, 23%);
+  --light-purple: hsl(244, 83%, 68%);
 }
 
 body {
@@ -103,7 +104,7 @@ body {
 }
 
 .change-plan:hover {
-  color: hsl(244, 83%, 68%);
+  color: var(--light-purple);
   text-decoration: none;
 }
 
@@ -120,7 +121,7 @@ body {
 }
 
 .proceed-button:hover {
-  background-color: hsl(244, 83%, 68%);
+  background-color: var(--light-purple);
   cursor: pointer;
 }
 
