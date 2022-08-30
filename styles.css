@@ -125,6 +125,10 @@ body {
   cursor: pointer;
 }
 
+.proceed-button:active {
+  transform: translateY(2px);
+}
+
 .cancel-button {
   background-color: transparent;
   border: none;
@@ -138,6 +142,10 @@ body {
 .cancel-button:hover {
   color: var(--dark-blue);
   cursor: pointer;
+}
+
+.cancel-button:active {
+  text-decoration: underline;
 }
 
 .attribution {
