@@ -23,6 +23,9 @@ body {
   min-height: 100vh;
   font-family: "Red Hat Display", sans-serif;
   background-color: var(--pale-blue);
+  background-image: url("./images/pattern-background-mobile.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
 }
@@ -168,6 +171,10 @@ body {
 */
 
 @media screen and (min-width: 768px) {
+  body {
+    background-image: url("./images/pattern-background-desktop.svg");
+  }
+
   .order-summary-card {
     max-width: 374px;
   }
