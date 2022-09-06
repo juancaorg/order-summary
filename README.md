@@ -72,3 +72,7 @@ body {
 - Website - [juanca.org](https://www.juanca.org)
 - Frontend Mentor - [@juancaorg](https://www.frontendmentor.io/profile/juancaorg)
 - Twitter - [@juancaorg](https://twitter.com/juancaorg)
+
+## Acknowledgments
+
+Thanks to [@elaineleung](https://github.com/elaineleung) for [her feedback on my solution](https://www.frontendmentor.io/solutions/order-summary-card-built-using-css-grid-and-flexbox-pKkUnA8dc5#comment-6316ee9accfc3660d9a81adc): use the [`background-image`](http://developer.mozilla.org/en-US/docs/Web/CSS/background-image) instead of a `picture` element for this challenge.
