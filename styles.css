@@ -23,8 +23,8 @@ body {
   min-height: 100vh;
   font-family: "Red Hat Display", sans-serif;
   background-color: var(--pale-blue);
-  display: grid;
-  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .pattern-background {
@@ -150,6 +150,7 @@ body {
 
 .attribution {
   font-size: 0.75rem;
+  margin-bottom: 2rem;
   text-align: center;
 }
 
