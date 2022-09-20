@@ -176,11 +176,15 @@ body {
   }
 
   .order-summary-card {
-    max-width: 374px;
+    max-width: 450px;
   }
 
   .order-summary-text {
-    padding: 39px;
+    padding: 3rem 3rem 0;
+  }
+
+  .order-summary-boxes {
+    padding: 0 3rem 3rem;
   }
 
   .title {
