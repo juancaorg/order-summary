@@ -133,9 +133,11 @@ body {
   background-color: transparent;
   border: none;
   color: var(--desaturated-blue);
-  padding: 0.875rem;
-  font-weight: 700;
+  font-size: 0.9375rem;
+  font-weight: 900;
+  line-height: 1.25rem;
   margin-top: 0.5rem;
+  padding: 0.875rem;
   width: 100%;
 }
 
