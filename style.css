@@ -30,17 +30,6 @@ body {
   flex-direction: column;
 }
 
-.pattern-background {
-  display: grid;
-  align-items: center;
-}
-
-.pattern-background>img {
-  width: 100%;
-  position: fixed;
-  z-index: -1;
-}
-
 .order-summary-card {
   max-width: 327px;
   background-color: white;
