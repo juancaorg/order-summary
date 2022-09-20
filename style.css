@@ -63,10 +63,10 @@ body {
 .description {
   color: var(--desaturated-blue);
   font-size: 0.9375rem;
-  line-height: 1.6;
   font-weight: 500;
+  line-height: 1.5625rem;
   text-align: center;
-  margin: 0.875rem;
+  margin-top: 1rem;
 }
 
 .price-plan {
