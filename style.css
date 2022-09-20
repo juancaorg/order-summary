@@ -83,8 +83,9 @@ body {
 
 .annual-price-plan {
   color: var(--dark-blue);
-  font-size: 0.9375rem;
-  font-weight: 700;
+  font-size: 0.875rem;
+  font-weight: 900;
+  line-height: 1.1875rem;
   margin-left: 1rem;
 }
 
