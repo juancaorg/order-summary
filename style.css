@@ -96,8 +96,10 @@ body {
 
 .change-plan {
   color: var(--bright-blue);
-  font-size: 0.875rem;
+  font-size: 0.8125rem;
   font-weight: 700;
+  line-height: 1.0625rem;
+  text-decoration-line: underline;
 }
 
 .change-plan:hover {
