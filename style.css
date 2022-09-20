@@ -187,7 +187,8 @@ body {
   }
 
   .title {
-    font-size: 1.625rem;
+    font-size: 1.75rem;
+    line-height: 2.3125rem;
   }
 
   .description {
