@@ -40,8 +40,8 @@ body {
 
 .success-hero-image {
   width: 100%;
-  border-top-left-radius: 1.125rem;
-  border-top-right-radius: 1.125rem;
+  border-top-left-radius: 1.25rem;
+  border-top-right-radius: 1.25rem;
 }
 
 .order-summary-text {
