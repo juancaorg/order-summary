@@ -216,6 +216,15 @@ body {
     line-height: 1.1875rem;
   }
 
+  .price-plan {
+    margin-top: 1.25rem;
+    margin-bottom: 2rem;
+  }
+
+  .cancel-button {
+    margin-top: 2rem;
+  }
+
   .attribution {
     font-size: 0.875rem;
   }
